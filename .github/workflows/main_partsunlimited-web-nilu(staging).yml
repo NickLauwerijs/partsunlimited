@@ -53,4 +53,4 @@ jobs:
         app-name: 'partsunlimited-web-nilu'
         slot-name: 'staging'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_09be947f012541c89a23c54a9304af49 }}
-        package: .
+        package: . 
